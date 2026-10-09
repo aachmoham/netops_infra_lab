@@ -1,6 +1,6 @@
-# IT Infrastructure & Lab Management 
+# NetOps & Infrastructure Lab (`netops-infra-lab`)
 
-Welkom bij de documentatie van het **IT Infrastructure & Labo Project**. Dit project omvatte het ontwerpen, opbouwen, inventariseren en onderhouden van netwerklabo's, serverruimtes en netwerkapparatuur.
+Welkom bij de documentatie van het **NetOps & Infrastructure Lab Project**. Dit project omvatte het ontwerpen, opbouwen, inventariseren en onderhouden van netwerklabo's, serverruimtes en netwerkapparatuur.
 
 > **Doel van deze repository:** Het documenteren van mijn praktische ervaring op het gebied van netwerkbeheer, hardware-installatie, procesautomatisering en projectmatig werken binnen een IT-infrastructuuromgeving.
 
