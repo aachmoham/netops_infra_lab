@@ -1,4 +1,4 @@
-# IT Infrastructure & Lab Management (Portfolio Project)
+# IT Infrastructure & Lab Management 
 
 Welkom bij de documentatie van het **IT Infrastructure & Lab Optimization Project**. Dit project omvatte het ontwerpen, opbouwen, inventariseren en onderhouden van netwerklabo's, serverruimtes en netwerkapparatuur.
 
