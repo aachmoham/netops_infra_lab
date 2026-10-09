@@ -9,4 +9,4 @@ Het opbouwen van een netwerk-rack vereist een goede verdeling van gewicht, warmt
 3. **Luchtstroom & Ruimte:** Rekening gehouden met ruimte (screws/units openlaten) voor afdekplaten en optimale ventilatie tussen zware apparaten.
 
 
-![Rack Layout](rack_layout.png)
+![Rack Layout](rack_layout.PNG)
