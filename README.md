@@ -27,14 +27,14 @@ Welkom bij de documentatie van het **IT Infrastructure & Labo Project**. Dit pro
 - Implementatie van QR-codes om fysiek materiaal sneller te kunnen identificeren en scannen.
 
 ### 3. Lifecycle & Firmware Management
-- Definieren van de **Target OS** (meest stabiele firmware) voor het gehele netwerkpark[cite: 1].
-- Opzetten van een dedicated **TFTP-server** op een Ubuntu project-PC voor de uitrol van firmware-updates over het netwerk[cite: 1, 5].
+- Definieren van de **Target OS** (meest stabiele firmware) voor het gehele netwerkpark.
+- Opzetten van een dedicated **TFTP-server** op een Ubuntu project-PC voor de uitrol van firmware-updates over het netwerk.
 
 ---
 
 ## Navigatie door de Documentatie
 
 - [`docs/project-scope.md`](docs/project-scope.md): Gedetailleerd overzicht van mijn specifieke takenpakket.
-- [`docs/planning.md`](docs/kanban-and-planning.md): Mijn manier van projectmatig werken en plannen.
+- [`docs/planning.md`](docs/planning.md): Mijn manier van projectmatig werken en plannen.
 - [`docs/rack-architecture.md`](docs/rack-architecture.md): Technisch ontwerp van de fysieke racks.
 - [`docs/firmware-management.md`](docs/firmware-management.md): Automatisering, scripting en het firmware updateplan.
