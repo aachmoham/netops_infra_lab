@@ -35,6 +35,6 @@ Welkom bij de documentatie van het **IT Infrastructure & Labo Project**. Dit pro
 ## Navigatie door de Documentatie
 
 - [`docs/project-scope.md`](docs/project-scope.md): Gedetailleerd overzicht van mijn specifieke takenpakket.
-- [`docs/kanban-and-planning.md`](docs/kanban-and-planning.md): Mijn manier van projectmatig werken en plannen.
+- [`docs/planning.md`](docs/kanban-and-planning.md): Mijn manier van projectmatig werken en plannen.
 - [`docs/rack-architecture.md`](docs/rack-architecture.md): Technisch ontwerp van de fysieke racks.
 - [`docs/firmware-management.md`](docs/firmware-management.md): Automatisering, scripting en het firmware updateplan.
