@@ -28,7 +28,7 @@ Welkom bij de documentatie van het **NetOps & Infrastructure Lab Project**. Dit 
 
 ### 3. Lifecycle & Firmware Management
 - Definieren van de **Target OS** (meest stabiele firmware) voor het gehele netwerkpark.
-- Opzetten van een dedicated **TFTP-server** op een Ubuntu project-PC voor de uitrol van firmware-updates over het netwerk.
+- Opzetten van een dedicated **TFTP-server** op een Ubuntu project-PC voor de uitrol van firmware-updates over het netwerk. (nog bezig)
 
 ---
 
