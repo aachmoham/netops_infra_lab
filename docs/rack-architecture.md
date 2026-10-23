@@ -24,10 +24,10 @@ Het opbouwen van een netwerk-rack vereist een goede verdeling van gewicht, warmt
 Hieronder zijn de fysieke foto's toegevoegd van de daadwerkelijk opgebouwde racks en de voorbereide switches:
 
 - **Volledig opgebouwd serverrack:**  
-  ![Server Rack Praktijk](Image.jfif)
+  ![Server Rack Praktijk](img/rack.jfif)
 
 - **Gestapelde switches klaar voor configuratie en uitrol (inclusief status-labels):**  
-  ![Gestapelde Switches](1000040966.jpg)
+  ![Gestapelde Switches](img/switches.jpg)
 
 - **Schematische Rack Layout:**  
-  ![Rack Layout](rack_layout.PNG)
+  ![Rack Layout](img/rack_layout.PNG)
